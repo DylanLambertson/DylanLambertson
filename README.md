@@ -1,3 +1,1 @@
-<p align="center">
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=fogur7y49icug0maoox13tawu&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color_cover=true&bar_color=0067b1)](https://github.com/kittinan/spotify-github-profile)
-</p>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/1EvtSO5GYW9eVy4lBudm1z?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
