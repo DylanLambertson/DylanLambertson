@@ -1,4 +1,4 @@
-[Personal Banner](https://github.com/DylanLambertson/DylanLambertson/blob/main/img/DylanLambertsonBanner.png?raw=true)
+[Personal Banner](https://github.com/DylanLambertson/DylanLambertson/blob/main/img/DylanLambertsonBanner.png)
 
 <h1 align="center">Hi 👋, I'm Dylan L.</h1>
 
