@@ -1,7 +1,5 @@
 <img src="/img/DylanLambertsonBanner.png" alt="Banner" title="Banner">
 
-<h1 align="center">Hi 👋, I'm Dylan L.</h1>
-
 <h3 align="center">A front end develeloper from the USA 🇺🇸</h3>
 
 
