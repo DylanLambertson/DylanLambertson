@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [My GitHub](https://github.com/DylanLambertson/)
 
-- ⚡ Fun fact **Josh Breaths Carbon Monoxide**!
+- 💥 Josh's Home Servers are going to blow up!
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
