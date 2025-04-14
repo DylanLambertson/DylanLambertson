@@ -1,6 +1,4 @@
-<img src="/img/DylanLambertsonBanner.png" alt="Banner" title="Banner">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=13&pause=250&color=F7F7F7&center=true&vCenter=true&multiline=true&width=435&lines=Dylan+Lambertson;A+Nationally+Ranked+Trampoline+Athlete+From+The+USA)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bebas+Neue&weight=300&size=85&pause=1000&color=F7F7F7&center=true&vCenter=true&multiline=true&width=1700&height=320&lines=Dylan+Lambertson;A+Nationally+Ranked+Trampoline+Athlete+From+The+USA)](https://git.io/typing-svg)
 
 
 
