@@ -1,11 +1,9 @@
 <div align="center">
-
+  
 <img
-  src="https://media.discordapp.net/attachments/1026289832990871564/1530014805610594516/camp4headshot.png?ex=6a6408d3&is=6a62b753&hm=fee861aff4cf16953af4ce694c1fd6d77c8fc862e57feaccc164a7a3ff55ee15&=&format=webp&quality=lossless"
+  src="https://cdn.discordapp.com/attachments/1026289832990871564/1530031747104903259/Untitled_design_2.png?ex=6a64189b&is=6a62c71b&hm=0ed3864cd17f58293fe9405cef0cafb243532a4af4db27592a9bf717723f148f&"
   alt="Dylan's Profile Picture"
   width="180"
-  height="180"
-  style="border-radius: 50%; object-fit: cover;"
 />
 # 👋 Hey, I'm Dylan
 
