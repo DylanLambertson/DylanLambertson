@@ -1,28 +1,97 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bebas+Neue&weight=300&size=85&pause=1000&color=F7F7F7&center=true&vCenter=true&multiline=true&width=1700&height=320&lines=Dylan+Lambertson;A+Nationally+Ranked+Trampoline+Athlete+From+The+USA)](https://git.io/typing-svg)
+<div align="center">
 
+<img
+  src="https://media.discordapp.net/attachments/1026289832990871564/1530014805610594516/camp4headshot.png?ex=6a6408d3&is=6a62b753&hm=fee861aff4cf16953af4ce694c1fd6d77c8fc862e57feaccc164a7a3ff55ee15&=&format=webp&quality=lossless"
+  alt="Dylan's Profile Picture"
+  width="180"
+  height="180"
+  style="border-radius: 50%; object-fit: cover;"
+/>
+# 👋 Hey, I'm Dylan
 
+### Full-Stack Developer · Web Designer · Builder · Entrepreneur
 
+<a href="https://dylanlambertson.dev/">
+  <img src="https://img.shields.io/badge/🌐%20Visit%20My%20Portfolio-000000?style=for-the-badge" />
+</a>
+<br />
 
-- 💬 Ask me about **HTML, CSS, PHP and JS**
+**I build modern websites, scalable applications, and digital products.**
+*Focused on turning ideas into polished, production-ready experiences.*
 
-- 📫 Reach me at **me@dylanlambertson.dev**
+</div>
 
-- 👨‍💻 All of my projects are available at [My GitHub](https://github.com/DylanLambertson/)
+---
 
-- 💥 Josh's Home Servers are going to blow up!
+## 🧑‍💻 About Me
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-      <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-    <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-    </p>
+I'm a developer who enjoys turning ideas into **real, polished, production-ready products**.
 
+I focus on building modern web experiences, scalable backend systems, developer tools, and digital products — with a strong emphasis on **design, performance, security, and user experience**.
 
-<p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=DylanLambertson&show_icons=true alt=rahuldkjain /> </p>
+I'm constantly experimenting with new technologies, building projects, and finding better ways to turn an idea from **concept → design → code → production**.
 
-<h3 align="center">Music?</h3>
-<p align="center"> <img src=https://spotify-recently-played-readme.vercel.app/api?user=fogur7y49icug0maoox13tawu /> </p>
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DylanLambertson&theme=github-compact&hide_border=true&area=true" width="100%" />
+
+<br />
+
+<div align="center">
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DylanLambertson&theme=transparent" height="180" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DylanLambertson&theme=transparent" height="180" />
+
+</div>
+
+</div>
+
+<br />
+
+<img src="https://streak-stats.demolab.com?user=DylanLambertson&theme=transparent&hide_border=true" />
+
+</div>
+
+## 🚀 What I Build
+
+I’ve worked on a variety of projects ranging from **modern websites and custom web applications** to **SaaS platforms, e-commerce experiences, APIs, and backend systems**. I enjoy building projects from the ground up, focusing on clean design, strong performance, reliable infrastructure, and creating experiences that feel polished from start to finish.
+
+## 🌎 My Vision
+
+I believe great software shouldn't always come with a great price tag. My goal is to build projects that are **accessible, efficient, and affordable to run**, using modern platforms and generous free tiers whenever possible.
+
+I aim to leverage services like **Cloudflare Pages, Resend, Vercel, and other developer-friendly platforms** to keep infrastructure costs at **$0 whenever practical**, without sacrificing quality, performance, or reliability. I enjoy finding creative solutions that allow me to build and deploy production-ready projects while keeping them accessible to everyone.
+
+---
+
+<div align="center">
+
+### Thanks for stopping by! 👋
+
+I'm always building, learning, and exploring what's next.
+
+**Have an idea? Let's build it.**
+
+<br />
+
+<a href="https://dylanlambertson.dev/">
+  <img src="https://img.shields.io/badge/🌐%20Portfolio-000000?style=for-the-badge" />
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/dlambertson/">
+  <img src="https://img.shields.io/badge/💻%20Linkedin-181717?style=for-the-badge" />
+</a>
+
+<br />
+<br />
+
+<sub>Built with curiosity, creativity, and a lot of late nights.</sub>
+
+</div>
