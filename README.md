@@ -1,7 +1,7 @@
 <div align="center">
   
 <img
-  src="./DylanLambertson/img/Dylan.jpg"
+  src="https://cdn.discordapp.com/attachments/1026289832990871564/1556479481030377492/dylan.jpg"
   alt="Dylan's Profile Picture"
   width="180"
 />
